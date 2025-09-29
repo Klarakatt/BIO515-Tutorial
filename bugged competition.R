@@ -53,3 +53,4 @@ scramble(R = 10, K = 100, N0 = 10, t = 100) #try altering the parameter values!
 
 contest(R = 5, K = 100, N0 = 1, t = 10)
 
+#it works?
